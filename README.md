@@ -1,4 +1,4 @@
-# COMS W4701 AI HW5 Programming
+# Probabilistic Distributions 
 
 
 ### Setup
